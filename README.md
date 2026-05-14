@@ -3,6 +3,17 @@
 This README file was generated on 2026/05/14 by Lauriane Ribas-Deulofeu (lauriane.ribas@gmail.com). Knit the taiwan_baselines.Rmd to generate html and extract R code (Latest update on 2026/05/14)
 
 1. **Author Information**
+   * First author
+      * Name: Chia-Hung Eric Liu
+      * Affiliation: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
+   * Second author
+      * Name: Lauriane Ribas-Deulofeu
+      * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
+      * Affiliation 2: Ocean Center, National Taiwan University, Taipei 10617, Taiwan
+
+
+
+1. **Author Information**
        * First author
           * Name: Lauriane Ribas-Deulofeu
           * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
