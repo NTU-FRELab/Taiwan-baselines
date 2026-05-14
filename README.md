@@ -39,12 +39,12 @@ This README file was generated on 2026/05/14 by Lauriane Ribas-Deulofeu (laurian
 4. **Geographic location of data collection:** Taiwan, West Pacific
 
 5. **Funding sources that supported the collection of the data:**
-            * Ministry of Science and Technology (MOST) of Taiwan
-            * National Science and Technology Council (NSTC) of Taiwan
-            * Ocean Conservation Administration of Taiwan
-            * Ocean Affairs Council (OAC) of Taiwan
-            * Marine National Park of Taiwan
-            * National Taiwan University
+   * Ministry of Science and Technology (MOST) of Taiwan
+   * National Science and Technology Council (NSTC) of Taiwan
+   * Ocean Conservation Administration of Taiwan
+   * Ocean Affairs Council (OAC) of Taiwan
+   * Marine National Park of Taiwan
+   * National Taiwan University
 
 6. **Recommended citation for this dataset:** Ribas-Deulofeu L, Lin YV, Hsiao WV, Liu Y-L, Château P-A, Wei C-H, Chen W-J, Denis V (2026). Data from: Establishing legal and benthic baselines of Taiwan’s coral ecosystems to inform effective conservation [Dataset]. Zenodo. https://doi.org/XXXXX
 
