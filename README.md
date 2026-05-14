@@ -4,23 +4,19 @@ This README file was generated on 2026/05/14 by Lauriane Ribas-Deulofeu (laurian
 
 1. **Author Information**
    * First author
-      * Name: Chia-Hung Eric Liu
-      * Affiliation: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-   * Second author
       * Name: Lauriane Ribas-Deulofeu
       * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
       * Affiliation 2: Ocean Center, National Taiwan University, Taipei 10617, Taiwan
-
+   * Second author
+      * Name: Yuting Vicky Lin
+      * Affiliation: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
 
 
 1. **Author Information**
        * First author
-          * Name: Lauriane Ribas-Deulofeu
-          * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-          * Affiliation 2: Ocean Center, National Taiwan University, Taipei 10617, Taiwan
+          * N
        * Second author
-          * Name: Yuting Vicky Lin
-          * Affiliation: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
+          * 
        * Third author
           * Name: Wanchien Victoria Hsiao
           * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
