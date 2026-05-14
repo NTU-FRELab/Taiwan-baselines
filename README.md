@@ -10,36 +10,29 @@ This README file was generated on 2026/05/14 by Lauriane Ribas-Deulofeu (laurian
    * Second author
       * Name: Yuting Vicky Lin
       * Affiliation: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-
-
-1. **Author Information**
-       * First author
-          * N
-       * Second author
-          * 
-       * Third author
-          * Name: Wanchien Victoria Hsiao
-          * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-          * Affiliation 2: School of Biology, Faculty of Biological Sciences, University of Leeds, Leeds LS2 9JT, UK
-       *Fourth author
-          * Name: Yen-Li Liu
-          * Affiliation: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-       * Fifth author
-          * Name: Pierre-Alexandre Château
-          * Affiliation: Department of Marine Environment and Engineering, National Sun Yat-sen University, Kaohsiung 80424, Taiwan
-       * Sixth author
-          * Name: Chih-Lin Wei
-          * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-          * Affiliation 2: Ocean Center, National Taiwan University, Taipei 10617, Taiwan
-       * Seventh author
-          * Name: Wei-Jen Chen
-          * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-          * Affiliation 2: Ocean Center, National Taiwan University, Taipei 10617, Taiwan
-       * Eight & corresponding author
-          * Name: Vianney Denis
-          * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
-          * Affiliation 2: Ocean Center, National Taiwan University, Taipei 10617, Taiwan. 
-          * Email: [vianneydenis@ntu.edu.tw](mailto:vianneydenis@ntu.edu.tw)
+   * Third author
+      * Name: Wanchien Victoria Hsiao
+      * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
+      * Affiliation 2: School of Biology, Faculty of Biological Sciences, University of Leeds, Leeds LS2 9JT, UK
+   * Fourth author
+      * Name: Yen-Li Liu
+      * Affiliation: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
+   * Fifth author
+      * Name: Pierre-Alexandre Château
+      * Affiliation: Department of Marine Environment and Engineering, National Sun Yat-sen University, Kaohsiung 80424, Taiwan
+   * Sixth author
+      * Name: Chih-Lin Wei
+      * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
+      * Affiliation 2: Ocean Center, National Taiwan University, Taipei 10617, Taiwan
+   * Seventh author
+      * Name: Wei-Jen Chen
+      * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
+      * Affiliation 2: Ocean Center, National Taiwan University, Taipei 10617, Taiwan
+   * Eight & corresponding author
+      * Name: Vianney Denis
+      * Affiliation 1: Institute of Oceanography, National Taiwan University, Taipei 10617, Taiwan
+      * Affiliation 2: Ocean Center, National Taiwan University, Taipei 10617, Taiwan. 
+      * Email: [vianneydenis@ntu.edu.tw](mailto:vianneydenis@ntu.edu.tw)
 
 3. **Date of data collection:** 2016-2023
 
