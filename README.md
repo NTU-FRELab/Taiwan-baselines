@@ -73,7 +73,7 @@ There are eight files and one sub-folder in the folder **Data**.
 - File 7: *Factor - Labels Morpho-functional group.csv*; Description: XXX
 - File 8: *Factor - Location level.csv*; Description: XXX
 
-- Subfolder **Taiwan Landmass**, contain five GIS files:
+- Subfolder: **Taiwan Landmass**, contain five GIS files:
     - File 1: *Abiotic variable.csv*; 
     - File 2: *Benthic composition.csv*; 
     - File 3: *Global fish metric.csv*; 
