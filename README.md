@@ -74,11 +74,11 @@ There are eight files and one sub-folder in the folder **Data**.
 - File 8: *Factor - Location level.csv*; Description: XXX
 
 - Subfolder: **Taiwan Landmass**, contain five GIS files:
-    - File 1: *Abiotic variable.csv*; 
-    - File 2: *Benthic composition.csv*; 
-    - File 3: *Global fish metric.csv*; 
-    - File 4: *Taiwan fish metric.csv*; 
-    - File 5: *Abiotic variable.csv*; 
+    - File 1: *Taiwan.cpg*; 
+    - File 2: *Taiwan.dbf*; 
+    - File 3: *Taiwan.prj*; 
+    - File 4: *Taiwan.shp*; 
+    - File 5: *Taiwan.shx*; 
 
 ### METHODOLOGICAL INFORMATION
 
