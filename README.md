@@ -61,7 +61,24 @@ This README file was generated on 2026/05/14 by Lauriane Ribas-Deulofeu (laurian
 This dataset is used to analyze benthic community and the legal framework regulating MPAs in Taiwan. 
 
 2. **File list**
-  **TO BE UPDATED**
+
+There are eight files and one sub-folder in the folder **Data**.
+
+- File 1: *Data summary - Regional Average Benthic Major Categories*; Description: XXX
+- File 2: *Dataset - Benthic composition (major cat.-mean) at survey locations (2016-2023).csv*; Description: XXX
+- File 3: *Dataset - Benthic composition (morpho-funct. group-mean) and env. parameters at survey locations (2016-2023).csv*; Description: XXX
+- File 4: *EnvData - Monthly SST-max_(degree_celsius).tif*; Description: XXX
+- File 5: *EnvData - Monthly SST-min_(degree_celsius).tif*; Description: XXX
+- File 6: *EnvData - MonthlyPAR-mean_(Einstein.m2.d1).tif*; Description: XXX
+- File 7: *Factor - Labels Morpho-functional group.csv*; Description: XXX
+- File 8: *Factor - Location level.csv*; Description: XXX
+
+- Subfolder **Taiwan Landmass**, contain five GIS files:
+    - File 1: *Abiotic variable.csv*; 
+    - File 2: *Benthic composition.csv*; 
+    - File 3: *Global fish metric.csv*; 
+    - File 4: *Taiwan fish metric.csv*; 
+    - File 5: *Abiotic variable.csv*; 
 
 ### METHODOLOGICAL INFORMATION
 
