@@ -74,11 +74,11 @@ There are eight files and one sub-folder in the folder **Data**.
 - **File 8: *Factor - Location level.csv*;** Description: Location-level metadata (e.g., survey dates, region, protection level).
 
 - Subfolder: **Taiwan Landmass**; Description: Shapefile of Taiwan's landmass polygon used for map background. Comprises the five standard shapefile components (Files A-E).
-    - **File A: *Taiwan.cpg* **
-    - **File B: *Taiwan.dbf* **
-    - **File C: *Taiwan.prj* **
-    - **File D: *Taiwan.shp* **
-    - **File E: *Taiwan.shx* **
+    - **File A: *Taiwan.cpg***
+    - **File B: *Taiwan.dbf***
+    - **File C: *Taiwan.prj***
+    - **File D: *Taiwan.shp***
+    - **File E: *Taiwan.shx***
 
 ### METHODOLOGICAL INFORMATION
 
