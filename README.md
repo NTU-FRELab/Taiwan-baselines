@@ -64,21 +64,21 @@ This dataset is used to analyze benthic community and the legal framework regula
 
 There are eight files and one sub-folder in the folder **Data**.
 
-- File 1: *Data summary - Regional Average Benthic Major Categories*; Description: XXX
-- File 2: *Dataset - Benthic composition (major cat.-mean) at survey locations (2016-2023).csv*; Description: XXX
-- File 3: *Dataset - Benthic composition (morpho-funct. group-mean) and env. parameters at survey locations (2016-2023).csv*; Description: XXX
-- File 4: *EnvData - Monthly SST-max_(degree_celsius).tif*; Description: XXX
-- File 5: *EnvData - Monthly SST-min_(degree_celsius).tif*; Description: XXX
-- File 6: *EnvData - MonthlyPAR-mean_(Einstein.m2.d1).tif*; Description: XXX
-- File 7: *Factor - Labels Morpho-functional group.csv*; Description: XXX
-- File 8: *Factor - Location level.csv*; Description: XXX
+- **File 1: *Data summary - Regional Average Benthic Major Categories.csv*;** Description: Regional averages of benthic major categories (relative frequency).
+- **File 2: *Dataset - Benthic composition (major cat.-mean) at survey locations (2016-2023).csv*;** Description: Average benthic composition at major categories (relative frequency) for each location and sampling event.
+- **File 3: *Dataset - Benthic composition (morpho-funct. group-mean) and env. parameters at survey locations (2016-2023).csv*;** Description: Average benthic composition at morpho-functional group level (relative frequency) for each location and sampling event with their corresponding environmental conditions from files 4- 6
+- **File 4: *EnvData - Monthly SST-max_(degree_celsius).tif*;** Description: Maximum monthly SST (°C; NOAA Global Coral Bleaching Monitoring; 5 km; 01/16/1986-12/16/2022). 
+- **File 5: *EnvData - Monthly SST-min_(degree_celsius).tif*;** Description: Minimum monthly SST (°C; NOAA Global Coral Bleaching Monitoring; 5 km; 01/16/1986-12/16/2022). 
+- **File 6: *EnvData - MonthlyPAR-mean_(Einstein.m2.d1).tif*;** Description: Average surface PAR (×10⁶ µmol m⁻² d⁻¹; VIIRSN/Suomi-NPP, NASA; 4 km;  01/15/2012-01/15/2022)
+- **File 7: *Factor - Labels Morpho-functional group.csv*;** Description: Morpho-functional group abbreviations, full names, and corresponding major categories.
+- **File 8: *Factor - Location level.csv*;** Description: Location-level metadata (e.g., survey dates, region, protection level).
 
-- Subfolder: **Taiwan Landmass**, contain five GIS files:
-    - File 1: *Taiwan.cpg*; 
-    - File 2: *Taiwan.dbf*; 
-    - File 3: *Taiwan.prj*; 
-    - File 4: *Taiwan.shp*; 
-    - File 5: *Taiwan.shx*; 
+- Subfolder: **Taiwan Landmass**; Description: Shapefile of Taiwan's landmass polygon used for map background. Comprises the five standard shapefile components (Files A-E).
+    - **File A: *Taiwan.cpg* **
+    - **File B: *Taiwan.dbf* **
+    - **File C: *Taiwan.prj* **
+    - **File D: *Taiwan.shp* **
+    - **File E: *Taiwan.shx* **
 
 ### METHODOLOGICAL INFORMATION
 
@@ -86,7 +86,7 @@ A detailed description of data acquisition and processing can be found in the pu
 
 ### DATA-FILE SPECIFIC INFORMATION
 
-**File 1: *XXX***
+**File 1: *Data summary - Regional Average Benthic Major Categories.csv* **
 1. Number of variables/columns: X
 
 2. Number of cases/rows: X
@@ -95,3 +95,65 @@ A detailed description of data acquisition and processing can be found in the pu
 
 4. Variable List
 
+**File 2: *Dataset - Benthic composition (major cat.-mean) at survey locations (2016-2023).csv* **
+1. Number of variables/columns: X
+
+2. Number of cases/rows: X
+
+3. Missing data codes: X
+
+4. Variable List
+
+**File 3: *Dataset - Benthic composition (morpho-funct. group-mean) and env. parameters at survey locations (2016-2023).csv* **
+1. Number of variables/columns: X
+
+2. Number of cases/rows: X
+
+3. Missing data codes: X
+
+4. Variable List
+
+**File 4: *EnvData - Monthly SST-max_(degree_celsius).tif* **
+1. Number of variables/columns: X
+
+2. Number of cases/rows: X
+
+3. Missing data codes: X
+
+4. Variable List
+
+**File 5: *EnvData - Monthly SST-min_(degree_celsius).tif* **
+1. Number of variables/columns: X
+
+2. Number of cases/rows: X
+
+3. Missing data codes: X
+
+4. Variable List
+
+**File 6: *EnvData - MonthlyPAR-mean_(Einstein.m2.d1).tif* **
+1. Number of variables/columns: X
+
+2. Number of cases/rows: X
+
+3. Missing data codes: X
+
+4. Variable List
+
+**File 7: *Factor - Labels Morpho-functional group.csv* **
+1. Number of variables/columns: X
+
+2. Number of cases/rows: X
+
+3. Missing data codes: X
+
+4. Variable List
+
+**File 8: *Factor - Location level.csv* **
+1. Number of variables/columns: X
+
+2. Number of cases/rows: X
+
+3. Missing data codes: X
+
+4. Variable List
