@@ -87,13 +87,13 @@ A detailed description of data acquisition and processing can be found in the pu
 ### DATA-FILE SPECIFIC INFORMATION
 
 **File 1: *Data summary - Regional Average Benthic Major Categories.csv* **
-1. Number of variables/columns: X
+1. Number of variables/columns: 14
 
-2. Number of cases/rows: X
+2. Number of cases/rows: 10
 
-3. Missing data codes: X
+3. Missing data codes: None
 
-4. Variable List
+4. Variable List: Region;	Ascidian;	CCA;	Cyanobacteria;	Hydrozoan;	Macroalgae;	Octocoral;	Other.mobile.invertebrates;	Scleractinian;	Sponge;	Stable.substrate;	Turf;	Unstable.substrate;	Zoanthid.
 
 **File 2: *Dataset - Benthic composition (major cat.-mean) at survey locations (2016-2023).csv* **
 1. Number of variables/columns: X
