@@ -86,7 +86,7 @@ A detailed description of data acquisition and processing can be found in the pu
 
 ### DATA-FILE SPECIFIC INFORMATION
 
-**File 1: *Data summary - Regional Average Benthic Major Categories.csv* **
+**File 1: *Data summary - Regional Average Benthic Major Categories.csv***
 
 1. Number of variables/columns: 14
 
@@ -98,7 +98,7 @@ A detailed description of data acquisition and processing can be found in the pu
     * **Region:** Study region name (8 regions + national average).
     * **Ascidian;	CCA;	Cyanobacteria;	Hydrozoan;	Macroalgae;	Octocoral;	Other.mobile.invertebrates;	Scleractinian;	Sponge;	Stable.substrate;	Turf;	Unstable.substrate;	Zoanthid:** Average proportion of the corresponding major category (relative frequency) per region and nationally.
 
-**File 2: *Dataset - Benthic composition (major cat.-mean) at survey locations (2016-2023).csv* **
+**File 2: *Dataset - Benthic composition (major cat.-mean) at survey locations (2016-2023).csv***
 
 1. Number of variables/columns: 14
 
@@ -110,7 +110,7 @@ A detailed description of data acquisition and processing can be found in the pu
     * **Site_Depth_Date:** Study site name, depth and survey date
     * **Ascidian;	CCA;	Cyanobacteria;	Hydrozoan;	Macroalgae;	Octocoral;	Other mobile invertebrates;	Scleractinian;	Sponge;	Stable; substrate;	Turf;	Unstable substrate;	Zoanthid:** Average proportion of the corresponding major category (relative frequency) at the corresponding location and date.
 
-**File 3: *Dataset - Benthic composition (morpho-funct. group-mean) and env. parameters at survey locations (2016-2023).csv* **
+**File 3: *Dataset - Benthic composition (morpho-funct. group-mean) and env. parameters at survey locations (2016-2023).csv***
 
 1. Number of variables/columns: 45
 
@@ -131,7 +131,7 @@ Variable List:
     * **min.monthly.SST:** Minimum monthly SST (°C; NOAA Global Coral Bleaching Monitoring; 01/16/1986-12/16/2022) at study location.	
     * **PAR:** Average surface PAR (×10⁶ µmol m⁻² d⁻¹; VIIRSN/Suomi-NPP, NASA; 01/15/2012-01/15/2022) at study location.
     
-**File 4: *EnvData - Monthly SST-max_(degree_celsius).tif* **
+**File 4: *EnvData - Monthly SST-max_(degree_celsius).tif***
 
 1. Number of variables/columns: 3
 
@@ -144,7 +144,7 @@ Variable List:
     * **y:** Latitude (decimal degrees North).	
     * **min monthly SST:** Maximum monthly SST (°C; NOAA Global Coral Bleaching Monitoring; 5 km; 01/16/1986-12/16/2022) at the corresponding cellule.
 
-**File 5: *EnvData - Monthly SST-min_(degree_celsius).tif* **
+**File 5: *EnvData - Monthly SST-min_(degree_celsius).tif***
 
 1. Number of variables/columns: 3
 
@@ -157,7 +157,7 @@ Variable List:
     * **y:** Latitude (decimal degrees North).	
     * **min monthly SST:** Minimum monthly SST (°C; NOAA Global Coral Bleaching Monitoring; 5 km; 01/16/1986-12/16/2022) at the corresponding cellule.
 
-**File 6: *EnvData - MonthlyPAR-mean_(Einstein.m2.d1).tif* **
+**File 6: *EnvData - MonthlyPAR-mean_(Einstein.m2.d1).tif***
 
 1. Number of variables/columns: 3
 
@@ -170,7 +170,7 @@ Variable List:
     * **y:** Latitude (decimal degrees North).	
     * **PAR:** Average surface PAR (×10⁶ µmol m⁻² d⁻¹; VIIRSN/Suomi-NPP, NASA; 4 km; 01/15/2012-01/15/2022) 
 
-**File 7: *Factor - Labels Morpho-functional group.csv* **
+**File 7: *Factor - Labels Morpho-functional group.csv***
 
 1. Number of variables/columns: 4
 
@@ -184,7 +184,7 @@ Variable List:
     * **MajorCategory:** Major category name
     * **MorphoFunctionalGroup:** Morpho-functional group name.
 
-**File 8: *Factor - Location level.csv* **
+**File 8: *Factor - Location level.csv***
 
 1. Number of variables/columns: 14
 
