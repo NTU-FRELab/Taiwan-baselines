@@ -212,7 +212,7 @@ Variable List:
 
 **Code/software**
 
-The R software is required, along with the following packages to run the script: `tidyverse`, `dplyr`, `ggpubr`, `viridis`, `ggplot2`, `yarrr`,`multcompView`, `terra`, `sf`, `vegan`, `labdsv`, `dunn.test`, `RVAideMemoire`, `mgcv`, `library(`coin`.
+The R software is required, along with the following packages to run the script: `tidyverse`, `dplyr`, `ggpubr`, `viridis`, `ggplot2`, `yarrr`, `multcompView`, `terra`, `sf`, `vegan`, `labdsv`, `dunn.test`, `RVAideMemoire`, `mgcv`, `coin`.
 
 **Data sources and references** 
 
