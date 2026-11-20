@@ -1,6 +1,6 @@
 # 🪸 Data from: Establishing legal and benthic baselines of Taiwan’s coral ecosystems to inform effective conservation
 
-This README file was generated on 2026/05/14 by Lauriane Ribas-Deulofeu (lauriane.ribas@gmail.com). Knit the taiwan_baselines.Rmd to generate html and extract R code (Latest update on 2026/05/14)
+This README file was generated on 2026/11/20 by Lauriane Ribas-Deulofeu (lauriane.ribas@gmail.com). Knit the taiwan_baselines.Rmd to generate html and extract R code (Latest update on 2026/11/20)
 
 1. **Author Information**
    * First author
@@ -48,7 +48,7 @@ This README file was generated on 2026/05/14 by Lauriane Ribas-Deulofeu (laurian
 
 6. **Recommended citation for this dataset:** Ribas-Deulofeu L, Lin YV, Hsiao WV, Liu Y-L, Château P-A, Wei C-H, Chen W-J, Denis V (2026). Data from: Establishing legal and benthic baselines of Taiwan’s coral ecosystems to inform effective conservation [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.20323083
    
-8. **Associated manuscript:** Ribas-Deulofeu L, Lin YV, Hsiao WV, Liu Y-L, Château P-A, Wei C-H, Chen W-J, Denis V (2026). Establishing legal and benthic baselines of Taiwan’s coral ecosystems to inform effective conservation [under review in Regional Studies in Marine Science]
+8. **Associated manuscript:** Ribas-Deulofeu L, Lin YV, Hsiao WV, Liu Y-L, Château P-A, Wei C-H, Chen W-J, Denis V (2026). Establishing legal and benthic baselines of Taiwan’s coral ecosystems to inform effective conservation. Regional Studies in Marine Science, 105689. https://doi.org/10.1016/j.rsma.2026.105689.
 
 \[The data set and the R script are available through Zenodo (https://doi.org/10.5281/zenodo.20323083) and the GitHub repository (https://github.com/NTU-FRELab/Taiwan-baselines.git) in order to replicate our analyses]
 
@@ -234,5 +234,5 @@ Lin, Y.V., Denis, V. (2019). Acknowledging differences: number, characteristics,
 
 Liu, C.-H.E., Ribas-Deulofeu, L., Wu, M.-H.M., Chang, Y.-J., Denis, V. (2025). Patterns of reef fish energy flow in a transitional zone. Coral Reefs 44, 1573–1586. https://doi.org/10.1007/s00338-025-02725-7. 
 
-Ribas-Deulofeu, L, Lin, Y.V., Hsiao, W.V., Liu, Y-.L. and Château, P-.A., et al. (PREPRINT; to EDIT ONCE ACCEPTED). Establishing legal and benthic baselines of Taiwan’s coral ecosystems to inform effective conservation. Available at SSRN: http://dx.doi.org/10.2139/ssrn.6465291.
+Ribas-Deulofeu, L, Lin, Y.V., Hsiao, W.V., Liu, Y-.L. and Château, P-.A., et al. (2026). Establishing legal and benthic baselines of Taiwan’s coral ecosystems to inform effective conservation. Regional Studies in Marine Science, 105689. https://doi.org/10.1016/j.rsma.2026.105689.
 
